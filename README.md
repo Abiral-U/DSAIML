@@ -1,4 +1,3 @@
-Here's the merged professional README combining both the Data Science and Machine Learning assignment content:
 
 ---
 
@@ -7,11 +6,6 @@ Here's the merged professional README combining both the Data Science and Machin
 This repository contains assignments for **Data Science** and **Machine Learning** courses, showcasing practical implementations of concepts ranging from statistical analysis to predictive modeling. The projects utilize Python libraries and techniques to analyze data, solve real-world problems, and visualize insights effectively.
 
 ---
-
-## Table of Contents
-1. [Data Science Assignments](#data-science-assignments)
-2. [Machine Learning Assignment: Predicting Labor Earnings (1978)](#machine-learning-assignment-predicting-labor-earnings-1978)
-
 ---
 
 ## Data Science Assignments
@@ -38,6 +32,8 @@ These assignments cover statistical analyses, probability computations, hypothes
 
 ---
 
+---
+
 ## Machine Learning Assignment: Predicting Labor Earnings (1978)
 
 ### Overview
@@ -60,25 +56,6 @@ The dataset, **TheLaborProblem.csv**, includes:
 
 ---
 
-## How to Use the Repository
-
-### Clone the Repository
-```bash
-git clone https://github.com/yourusername/data-science-machine-learning.git
-```
-
-### Install Dependencies
-Install the required Python libraries:
-```bash
-pip install -r requirements.txt
-```
-
-### Run Assignments
-Navigate to the specific folder and execute the corresponding Python scripts:
-```bash
-python script_name.py
-```
-
 ---
 
 ## Key Results
@@ -94,21 +71,6 @@ python script_name.py
 
 ---
 
-## Project Structure
-```
-data-science-machine-learning/
-├── data_science/
-│   ├── sat_score.csv           # Dataset for SAT analysis
-│   ├── statistical_tests.py    # Python scripts for statistical assignments
-│   └── visualizations.py       # Python scripts for data visualizations
-├── machine_learning/
-│   ├── TheLaborProblem.csv     # Dataset for labor earnings prediction
-│   ├── main.py                 # Implementation of the regression model
-│   └── DDandSA.pdf             # Problem description and solution approach
-├── requirements.txt            # Required Python libraries
-└── README.md                   # Project documentation
-```
-
 ---
 
 ## Dependencies
@@ -122,14 +84,3 @@ This repository uses the following Python libraries:
 - `statsmodels`
 
 ---
-
-## Acknowledgments
-- **Instructors**: For guidance and datasets.
-- **Organizations**: For sharing data and inspiring the analyses.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-Make sure to replace placeholders like `yourusername` with your actual GitHub username. This README provides a comprehensive overview of your assignments and projects.
